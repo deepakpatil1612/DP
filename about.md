@@ -22,7 +22,7 @@ Industrial Experience -
 
 ## Skills
 
-**Skills ** - Scientific Python Programming- Numpy, Matplotlib, Pandas
+- Scientific Python Programming- Numpy, Matplotlib, Pandas
     
 ## Achievements
 
