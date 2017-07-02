@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: My Teaching
 permalink: /My Teaching/
 ---
 
