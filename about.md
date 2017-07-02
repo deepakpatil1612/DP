@@ -22,7 +22,7 @@ Industrial Experience -
 
 ## Skills
 
-* **Skills ** - Scientific Python Programming- Numpy, Matplotlib, Pandas
+**Skills ** - Scientific Python Programming- Numpy, Matplotlib, Pandas
     
 ## Achievements
 
@@ -37,4 +37,5 @@ Industrial Experience -
 ## Contact me
 
 [deepak.patil53@gmail.com](mailto:deepak.patil53@gmail.com)
+
 [Click here for my detailed resume](https://drive.google.com/open?id=0B7DoZbz5_0lfWGpwd0xabFhFSnM)
