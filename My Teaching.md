@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-permalink: /projects/
+permalink: /My Teaching/
 ---
 
 ### [Project 1](https://github.com/tux4kids/tuxmania) 
